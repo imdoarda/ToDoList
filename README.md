@@ -149,8 +149,8 @@
 
 
  # Fontes utilizadas
- * [https://www.youtube.com/watch?v=dJ49I-QYYUk&ab_channel=MonolitoPHP](YOUTUBE - MonolitoPHP)
- * [https://www.google.com/search?q=google+fonts&rlz=1C1GCEU_pt-BRBR1096BR1096&oq=go&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIGCAEQRRg5MhMIAhAuGIMBGMcBGLEDGNEDGIAEMgoIAxAAGLEDGIAEMgoIBBAAGLEDGIAEMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMTQ3NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8](Google Fonts)
+ * [YOUTUBE - MonolitoPHP](https://www.youtube.com/watch?v=dJ49I-QYYUk&ab_channel=MonolitoPHP)
+ * [Google Fonts](https://www.google.com/search?q=google+fonts&rlz=1C1GCEU_pt-BRBR1096BR1096&oq=go&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIGCAEQRRg5MhMIAhAuGIMBGMcBGLEDGNEDGIAEMgoIAxAAGLEDGIAEMgoIBBAAGLEDGIAEMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMTQ3NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
    
 
 # Tecnologias utilizadas
