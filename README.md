@@ -19,11 +19,7 @@
 
 
    
-## SISTEMA PARA GERENCIAR TAREFAS
- 
 
- 
- ``PROBLEMA BASE``
 
  
 
